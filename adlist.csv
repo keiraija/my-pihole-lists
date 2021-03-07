@@ -1,5 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1614418757,1614418757,"Migrated from /etc/pihole/adlists.list",1614729367
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1614418757,1614418757,"Migrated from /etc/pihole/adlists.list",1615074967
 32,https://adaway.org/hosts.txt,0,1614609444,1614666153,,1614609701
 33,https://v.firebog.net/hosts/AdguardDNS.txt,0,1614609444,1614666154,,1614609704
 34,https://v.firebog.net/hosts/Admiral.txt,0,1614609444,1614666155,,1614609705
