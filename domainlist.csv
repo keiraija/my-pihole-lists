@@ -278,3 +278,9 @@ id,type,domain,enabled,date_added,date_modified,comment
 277,3,^mads\.,1,1614419252,1614419252,github.com/mmotti/pihole-regex
 278,3,^pixels?[-.],1,1614419252,1614419252,github.com/mmotti/pihole-regex
 279,3,^stat(s|istics)?[0-9]*[_.-],1,1614419252,1614419252,github.com/mmotti/pihole-regex
+280,0,v10.events.data.microsoft.com,1,1615980678,1615980678,
+281,0,v20.events.data.microsoft.com,1,1615980679,1615980679,
+282,0,www.xboxlive.com,1,1615980695,1615980695,
+283,0,v10.vortex-win.data.microsoft.com,1,1615980695,1615980695,
+284,0,settings-win.data.microsoft.com,1,1615980695,1615980695,
+285,0,arc.msn.com,1,1615980703,1615980703,
