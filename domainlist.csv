@@ -284,3 +284,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 283,0,v10.vortex-win.data.microsoft.com,1,1615980695,1615980695,
 284,0,settings-win.data.microsoft.com,1,1615980695,1615980695,
 285,0,arc.msn.com,1,1615980703,1615980703,
+286,0,telemetry-console.api.playstation.com,1,1616209374,1616209374,
+287,0,gdlp01.c-wss.com,1,1616209380,1616209380,
+288,0,activity.windows.com,1,1616209483,1616209483,
+289,0,redirector.gvt1.com,1,1616209508,1616209508,
