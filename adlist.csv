@@ -1,14 +1,14 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1614418757,1614418757,"Migrated from /etc/pihole/adlists.list",1616209566
-32,https://adaway.org/hosts.txt,0,1614609444,1615981109,,1615938969
-33,https://v.firebog.net/hosts/AdguardDNS.txt,0,1614609444,1615981110,,1615968717
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1614418757,1614418757,"Migrated from /etc/pihole/adlists.list",1616260970
+32,https://adaway.org/hosts.txt,1,1614609444,1616260757,,1616260973
+33,https://v.firebog.net/hosts/AdguardDNS.txt,1,1614609444,1616260759,,1616260977
 34,https://v.firebog.net/hosts/Admiral.txt,0,1614609444,1615432307,"",1615431968
-35,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,0,1614609482,1615981112,,1615968721
+35,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1614609482,1616260764,,1616260980
 36,https://v.firebog.net/hosts/Easylist.txt,0,1614609531,1615432310,"",1615431973
-37,https://v.firebog.net/hosts/static/w3kbl.txt,0,1614609577,1615981113,,1615455321
+37,https://v.firebog.net/hosts/static/w3kbl.txt,1,1614609577,1616260769,,1616260981
 38,https://v.firebog.net/hosts/Easyprivacy.txt,0,1614609600,1615432313,"",1615431975
 39,https://v.firebog.net/hosts/Prigent-Ads.txt,0,1614609600,1615432313,"",1615431976
 40,https://v.firebog.net/hosts/Prigent-Crypto.txt,0,1614609662,1615432314,"",1615431979
 41,https://v.firebog.net/hosts/Shalla-mal.txt,0,1614609675,1615432316,"",1614609719
-42,https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt,0,1615441892,1615981115,,1615968724
+42,https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt,1,1615441892,1616260784,,1616260983
 43,https://dbl.oisd.nl/,1,1616103414,1616103414,,1616209644
