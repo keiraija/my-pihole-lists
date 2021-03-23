@@ -1,12 +1,13 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1614418757,1614418757,"Migrated from /etc/pihole/adlists.list",1616370788
-85,https://dbl.oisd.nl/,1,1616293953,1616293953,,1616370866
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1614418757,1614418757,"Migrated from /etc/pihole/adlists.list",1616460573
+85,https://dbl.oisd.nl/,1,1616293953,1616293953,,1616460660
 86,https://adaway.org/hosts.txt,1,1616294323,1616294323,,1616294540
 87,https://v.firebog.net/hosts/AdguardDNS.txt,1,1616294340,1616294340,,1616294544
-88,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1616294385,1616294385,,1616370877
+88,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1616294385,1616294385,,1616460672
 89,https://v.firebog.net/hosts/static/w3kbl.txt,1,1616309453,1616309453,,1616317937
 90,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1616310219,1616310219,,1616317940
-91,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1616310258,1616310258,,1616370886
-92,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1616310533,1616310533,,1616370889
-93,https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt,1,1616317423,1616317423,,1616370891
-94,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1616317646,1616317646,,1616370917
+91,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1616310258,1616310258,,1616460680
+92,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1616310533,1616310533,,1616460683
+93,https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt,1,1616317423,1616317423,,1616460686
+94,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1616317646,1616317646,,1616460711
+95,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1616418179,1616418179,,1616460716
